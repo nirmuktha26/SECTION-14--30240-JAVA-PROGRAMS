@@ -1,0 +1,9 @@
+public class fibanocci 
+{
+public static void main(String args[])
+{
+int a=0;
+int b=1;
+
+System.out.println("First 8 Fibonacci terms");
+for (int i=1,1,=8 i=++)
